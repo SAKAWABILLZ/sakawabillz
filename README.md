@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  - [Teachers Connect Hub](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Teachers Connect Hub](https://github.com/SAKAWABILLZ/Teacher-s-Connect-hub)
   
-  - [Hello world](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Hello world](https://github.com/SAKAWABILLZ/Teacher-s-Connect-hub) 
 
 <h2>Certifications</h2>
 
@@ -13,7 +13,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Teachers Connect Hub ](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Tutorial Teachers Connect Hub ](https://github.com/SAKAWABILLZ/Teacher-s-Connect-hub)
 
 <h2> 🤳 Connect with me:</h2>
 
